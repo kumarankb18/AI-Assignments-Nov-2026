@@ -1,0 +1,9 @@
+streamlit
+openai
+pydantic
+sentence-transformers
+pypdf
+numpy
+scikit-learn
+rank-bm25
+chromadb
